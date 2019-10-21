@@ -1,0 +1,1 @@
+kubectl create -f jenkins-pv.yaml

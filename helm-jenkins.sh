@@ -1,0 +1,1 @@
+helm install --name jenkins -f helm/jenkins-value.yaml stable/jenkins --namespace jenkins-ns --version 0.22.0
